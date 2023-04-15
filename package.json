@@ -1,0 +1,25 @@
+{
+  "name": "artifact-optimizer",
+  "version": "1.0.0",
+  "description": "A webpack plugin script that generates an optimized json file from smart contract artifacts. A list of contract names, addresses and ABIs.",
+  "author": "IoSan",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/I0San/artifact-optimizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/I0San/artifact-optimizer/issues"
+  },
+  "homepage": "https://github.com/I0San/artifact-optimizer",
+  "keywords": [
+    "Blockchain",
+    "ABI",
+    "Artifact",
+    "Solidity",
+    "Smart Contracts",
+    "WebPack",
+    "Plugin"
+  ]
+}
