@@ -1,6 +1,6 @@
 {
   "name": "artifact-optimizer",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A webpack plugin script that generates an optimized json file from smart contract artifacts. A list of contract names, addresses and ABIs.",
   "author": "IoSan",
   "license": "MIT",
